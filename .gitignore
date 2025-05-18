@@ -1,4 +1,6 @@
 *
+!.img/
+!.img/*
 !.gitignore
 !Chapter*
 !Chapter2/task-analisys
