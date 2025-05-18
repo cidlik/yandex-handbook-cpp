@@ -1,0 +1,9 @@
+*
+!.gitignore
+!Chapter*
+!Chapter2/task-analisys
+!Chapter*/*.md
+!Chapter*/*.cpp
+!Chapter*/*.h
+!*.md
+!Makefile
